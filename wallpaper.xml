@@ -1,0 +1,4 @@
+<wallpaper xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/wallpaper_description"
+    android:settingsActivity="com.noor.prayerwallpaper.MainActivity"
+    android:thumbnail="@android:drawable/ic_menu_gallery" />
